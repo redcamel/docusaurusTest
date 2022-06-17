@@ -13,7 +13,7 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://redcamel.github.io',
+  url: 'https://redcamel.github.io/',
   baseUrl: 'docusaurusTest',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
