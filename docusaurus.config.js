@@ -26,11 +26,7 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en','ko'],
-    localeConfigs: {
-      ko: {
-        htmlLang: 'ko-kr',
-      },
-    },
+
   },
 
   presets: [
