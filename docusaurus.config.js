@@ -13,7 +13,7 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://redcamel.github.io/',
+  url: 'https://redcamel.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,7 +23,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'redcamel', // Usually your GitHub org/user name.
   projectName: 'docusaurusTest', // Usually your repo name.
-  // trailingSlash: false,
+  trailingSlash: false,
   presets: [
     [
       'classic',
