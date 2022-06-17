@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://redcamel.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docusaurusTest/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
