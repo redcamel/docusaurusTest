@@ -1,5 +1,5 @@
 project_id: '522330'
-api_token_env: '7398ad13c3324b0508c8002c8b5ebf3736e53ef22f7d98a5596a04c915befb1b9d43c3dbb0708ca8'
+api_token_env: 7398ad13c3324b0508c8002c8b5ebf3736e53ef22f7d98a5596a04c915befb1b9d43c3dbb0708ca8
 preserve_hierarchy: true
 files:
   # JSON 번역 파일
